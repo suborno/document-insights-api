@@ -2,7 +2,7 @@
 
 Backend assignment for document processing and summarization.
 
-Note: I decided to use MySQL instead of MongoDB for data storage.
+Note: I decided to use MySQL instead of MongoDB for data storage. As I am more comfortable with MySQL.
 
 ## Setup Instructions
 
