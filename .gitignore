@@ -1,11 +1,3 @@
-# python
-__pycache__/
-*.py[cod]
-*.egg-info/
-dist/
-build/
-*.egg
-
 # virtualenv
 venv/
 .venv/
@@ -14,29 +6,3 @@ env/
 # env files
 .env
 
-# IDE
-.idea/
-.vscode/
-*.swp
-*.swo
-*~
-
-# OS
-.DS_Store
-Thumbs.db
-
-# testing / coverage
-.pytest_cache/
-htmlcov/
-.coverage
-coverage.xml
-
-# mypy / ruff
-.mypy_cache/
-.ruff_cache/
-
-# redis dumps
-*.rdb
-
-# temp
-tempCodeRunnerFile.py
